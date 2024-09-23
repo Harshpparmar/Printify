@@ -26,7 +26,7 @@ const ProductPage = () => {
             </div>
           </div>
           <img 
-            src="/src/assests/s2.png" 
+            src="https://printify.com/pfh/assets/animations/images/img_5.png" 
             alt="Product screenshot" 
             className="mt-3 mx-auto w-full max-w-lg rounded-xl shadow-green-500 shadow-xl ring-1 ring-gray-400/10 lg:w-[48rem] lg:ax-w-sm sm:mr-4" 
             width="500" 
