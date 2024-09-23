@@ -311,7 +311,7 @@ const Footer = () => {
                 </div>
 
                 <div className="w-full mt-8">
-                    <div className="mx-auto max-w-screen-xl px-4 py-6">
+                    <div className="mx-auto max-w-screen-xl px-4 py-6 font-roboto">
                         <div className=" border-gray-200 pt-4">
                             <p className="text-center text-sm text-gray-500 space-x-4">
                                 <a href="#" className="text-gray-500 hover:text-green-600">Intellectual Property Policy</a>

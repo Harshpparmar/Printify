@@ -4,8 +4,8 @@ const ClientSection = () => {
     return (
         <section className="py-24 ">
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
-            <div className="mb-20 text-center">
-                <span className="text-green-600 text-center font-poppins font-semibold text-4xl mb-4 block">Connect your store</span>
+            <div className="mb-20 text-center ">
+                <span className="text-green-600 text-center font-noto font-semibold text-4xl mb-4 block">Connect your store</span>
                 <h1 className="text-xl text-gray-500 text-center font-normal font-roboto">Printify easily integrates with major e-commerce platforms and marketplaces</h1>
             </div>
             <div className="grid grid-cols-1 gap-8 md:grid-cols-2   xl:grid-cols-4 ">

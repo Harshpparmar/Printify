@@ -7,13 +7,13 @@ const PricingSection = () => {
         
                 {/* Left Side: Text and Pricing */}
                 <div className="bg-[#192b3e] text-white p-20 rounded-lg flex-1 mt-8">
-                    <h1 className="text-3xl font-bold mb-4">
+                    <h1 className="text-3xl font-bold mb-4 font-noto">
                         Make Money, Risk-Free
                     </h1>
-                    <p className="mb-8">
+                    <p className="mb-8 font-noto">
                         You pay for fulfillment only when you make a sale
                     </p>
-                    <div className="bg-[#172536] p-6 rounded-lg text-lg mb-6">
+                    <div className="bg-[#172536] p-6 rounded-lg text-lg mb-6 font-roboto">
                         <div className="flex justify-between mb-2">
                             <span>You sell a t-shirt</span>
                             <span>$30</span>
@@ -32,7 +32,7 @@ const PricingSection = () => {
                     <button className="bg-green-500 text-white py-3 px-6 rounded-lg font-noto font-semibold hover:bg-green-600">
                         Start selling
                     </button>
-                    <p className="mt-4 text-xs text-gray-400">
+                    <p className="mt-4 text-xs font-roboto text-gray-400">
                         100% Free to use · 900+ Products · Largest print network
                     </p>
                 </div>

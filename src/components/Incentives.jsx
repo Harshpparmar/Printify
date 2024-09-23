@@ -16,7 +16,7 @@ const Incentives = () => {
                 <div className="ml-16 mt-3 sm:mt-0 sm:ml-3 lg:mt-3 lg:ml-0 text-left">
                 <h3 className="text-xl font-poppins font-semibold capitalize text-green-600">CREATE</h3>
                 <h3 className="text-xl font-poppins font-semibold text-gray-900">custom products</h3>
-                <p className="mt-2 text-sm text-gray-500">It's not actually free we just price it into the products. Someone's paying for it, and it's not us.</p>
+                <p className="mt-2 text-sm text-gray-500 font-roboto">It's not actually free we just price it into the products. Someone's paying for it, and it's not us.</p>
                 </div>
             </div>
             
@@ -30,7 +30,7 @@ const Incentives = () => {
                 <div className="ml-16 mt-3 sm:mt-0 sm:ml-3 lg:mt-3 lg:ml-0 text-left">
                 <h3 className="text-xl font-poppins font-semibold capitalize text-green-600">SELL</h3>
                 <h3 className="text-xl font-poppins font-semibold text-gray-900">on your terms</h3>
-                <p className="mt-2 text-sm text-gray-500">You choose the products, sale price, and where to sell</p>
+                <p className="mt-2 text-sm text-gray-500 font-roboto">You choose the products, sale price, and where to sell</p>
                 </div>
             </div>
             
@@ -44,7 +44,7 @@ const Incentives = () => {
                 <div className="ml-16 mt-3 sm:mt-0 sm:ml-3 lg:mt-3 lg:ml-0 text-left">
                 <h3 className="text-xl font-poppins font-semibold capitalize text-green-600">WE HANDLE</h3>
                 <h3 className="text-xl font-poppins font-semibold text-gray-900">fulfillment</h3>
-                <p className="mt-2 text-sm text-gray-500"> Once an order is placed, we automatically handle all the printing and delivery logistics </p>
+                <p className="mt-2 text-sm text-gray-500 font-roboto"> Once an order is placed, we automatically handle all the printing and delivery logistics </p>
                 </div>
             </div>
             

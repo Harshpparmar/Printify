@@ -4,10 +4,10 @@ const Testimonials = () => {
     return (
         <section className="bg-white">
             <div className="mx-auto max-w-screen-xl px-4 py-12 sm:px-6 lg:px-8 lg:py-16">
-                <h2 className="text-center text-4xl font-bold tracking-tight text-gray-900 sm:text-5xl">
+                <h2 className="text-center text-4xl font-bold font-noto tracking-tight text-gray-900 sm:text-5xl">
                 Trusted by over 8M sellers around the world
                 </h2>
-                <p className="text-center text-base mt-5 tracking-tight text-gray-400">Whether you are just getting started or run an enterprise-level e-commerce business, we do everything we can to ensure a positive merchant experience.</p>
+                <p className="text-center text-base font-roboto mt-5 tracking-tight text-gray-400">Whether you are just getting started or run an enterprise-level e-commerce business, we do everything we can to ensure a positive merchant experience.</p>
 
                 <div className="mt-8 grid grid-cols-1 gap-4 md:grid-cols-3 md:gap-8">
                 <div className="rounded-lg bg-gray-50 p-6 shadow-sm sm:p-8">
@@ -72,11 +72,11 @@ const Testimonials = () => {
                             </svg>
                         </div>
 
-                        <p className="mt-0.5 text-lg font-medium text-gray-900">Robert A. Voltaire</p>
+                        <p className="mt-0.5 text-lg font-medium text-gray-900 font-noto">Robert A. Voltaire</p>
                     </div>
                     </div>
 
-                    <p className="mt-4 text-gray-700">
+                    <p className="mt-4 text-gray-700 font-roboto">
                     Printify has been an incredible service for us musicians unable to keep large amount of inventory - now we can create designs previously too expensive to print without having to have 1,000 shirts in our jam space. Thanks Printify! 
                     </p>
                 </div>
@@ -143,11 +143,11 @@ const Testimonials = () => {
                             </svg>
                         </div>
 
-                        <p className="mt-0.5 ml-1 text-lg font-medium text-gray-900">Quinten Barney</p>
+                        <p className="mt-0.5 ml-1 text-lg font-medium text-gray-900 font-noto">Quinten Barney</p>
                     </div>
                     </div>
 
-                    <p className="mt-4 text-gray-700">
+                    <p className="mt-4 text-gray-700 font-roboto">
                     We chose Printify because of their offerings as well as their incredibly low prices. After several years, we've come to find that their customer service is also top notch, and their platform just keeps getting better and better. 
                     </p>
                 </div>
@@ -214,11 +214,11 @@ const Testimonials = () => {
                                 </svg>
                             </div>
 
-                            <p className="mt-0.5 ml-1 text-lg font-medium text-gray-900">Nikki</p>
+                            <p className="mt-0.5 ml-1 text-lg font-medium text-gray-900 font-noto">Nikki</p>
                         </div>
                         </div>
 
-                        <p className="mt-4 text-gray-700">
+                        <p className="mt-4 text-gray-700 font-roboto">
                         Printify has been a amazing partner to work with as we grow our business, from the range of merch we can make for our customers to working with our Customer Service team (Hi Martin!) it's truly made the whole process a breeze. 
                         </p>
                     </div>
